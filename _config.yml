@@ -3,7 +3,7 @@ plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 
 title: ANTI-USERAGENT
-description: 浏览器头反爬虫, 支持安卓苹果PC端各个浏览器的UA随机头, 支持requests, httpx, aiohttp等请求包聚合ja3工具集
+description: 反爬虫手段之useragent, 支持安卓苹果PC端各个浏览器的UA随机头, 支持requests, httpx, aiohttp等请求包聚合ja3工具集
 show_downloads: true
 
 github:
